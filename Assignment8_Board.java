@@ -1,6 +1,6 @@
 //Assignment 8
 import java.util.ArrayList;
-public class Board{
+public class Assignment8_Board{
 
   private String[][] squares;
   private ArrayList<Ship> ships=new ArrayList<Ship>();
