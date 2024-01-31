@@ -107,12 +107,10 @@ public class Assignment10_AnagramList
         else if(input.get(index).get(index2).compareTo(input.get(index+1).get(0))>0)
         {
           input.get(index).add(index2, input.get(index+1).remove(0));
-          index2=0;
         }
         else if(index2==input.get(index).size()-1)
         {
           input.get(index).add(input.get(index+1).remove(0));
-          index2=0;
         }
       }
       if(index+1>=input.size())
