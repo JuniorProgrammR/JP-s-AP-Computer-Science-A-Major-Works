@@ -96,11 +96,7 @@ public class Assignment10_AnagramList
       //repeat until the second array has no elements, then delete the second array.
       for(int index2=0;index2<input.get(index).size();index2++)
       {
-        if(index+1>=input.size())
-        {
-          break;
-        }
-        if(input.get(index+1).size()==0)
+        if(index+1>=input.size()||input.get(index+1).size()==0)
         {
           break;
         }
