@@ -1,3 +1,4 @@
+//This code was provided by ProjectSTEM
 public class Slice
 {
   private String color;
