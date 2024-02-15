@@ -219,7 +219,7 @@ public class GameWheel
   }
 
   /* COMPLETED METHODS - YOU DO NOT NEED TO CHANGE THESE */
-
+//This code was provided by ProjectSTEM
   /* Creates a wheel with 20 preset slices
    */
   public GameWheel()
