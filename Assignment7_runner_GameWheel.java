@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//This code was provided by ProjectSTEM
 public class runner_GameWheel{
 
   private static Scanner scan;
