@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.lang.Math;
-
+// This is all original code
 public class GameWheel
 {
   private ArrayList<Slice> slices=new ArrayList<Slice>(); // List of slices making up the wheel
